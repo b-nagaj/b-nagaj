@@ -1,10 +1,10 @@
-![snk svg](https://github.com/b-nagaj/b-nagaj/blob/output/github-contribution-grid-snake-dark.svg)
-
 <h1 align="center">Hi 👋, I'm Bryce</h1>
 
-<h3 align="center">A passionate, full stack software developer from Fort Collins, CO</h3>
+<h3 align="center">A passionate, full stack software developer in Fort Collins, CO</h3>
 
-- 🔭 I’m currently a software engineer at **Nationwide Mutual Insurance Company**
+![snk svg](https://github.com/b-nagaj/b-nagaj/blob/output/github-contribution-grid-snake-dark.svg)
+
+- 🔭 I'm a software engineer at **Nationwide Mutual Insurance Company**
 
 - 📫 Reach me at **bryce.nagaj@proton.me**
 
