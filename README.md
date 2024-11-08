@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bryce</h1>
 <h3 align="center">A passionate, full stack software developer from Fort Collins, CO</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=b-nagaj&label=Profile%20views&color=0e75b6&style=flat" alt="b-nagaj" /> </p>
-
 - 🔭 I’m currently a software engineer at **Nationwide Mutual Insurance Company**
 
 - 📫 Reach me at **bryce.nagaj@proton.me**
