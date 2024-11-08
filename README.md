@@ -4,6 +4,8 @@
 
 ![snk svg](https://github.com/b-nagaj/b-nagaj/blob/output/github-contribution-grid-snake-dark.svg)
 
+<h3>Background</h3>
+
 - 🔭 I'm a software engineer at **Nationwide Mutual Insurance Company**
 
 - 📫 Reach me at **bryce.nagaj@proton.me**
